@@ -7,4 +7,4 @@ COPY files/root /
 
 EXPOSE 80
 
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["nginx"]
